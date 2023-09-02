@@ -24,7 +24,7 @@ On the left side of this page you will see some tabs that are pretty self explan
 
 However for the purpose of doing the intro project:
 
-go to the tab **Installation and click on it**
+Go to the tab **Installation** and click on it
 
 It will then tab down a list of installation types
 
