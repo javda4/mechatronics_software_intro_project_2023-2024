@@ -17,7 +17,7 @@ Start by right clicking and opening the following link in a new tab [ROS2 Foxy D
 
 Click on the tab and it should look like this:
 
-<img src="images/Ros2_foxy_doc.png" width="300" height="300">
+<img src="images/Ros2_foxy_doc.png" width="400" height="300">
 
 
 
