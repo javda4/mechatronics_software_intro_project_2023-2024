@@ -9,3 +9,9 @@ at least 8 gigs of RAM
 80 gigs or storage is a safe bet
 
 any number of processors will do the more the better
+
+<br>
+
+### Download ROS 2 Foxy
+Start by going to the [ROS2 Foxy Documentation](https://docs.ros.org/en/foxy/index.html) page
+
