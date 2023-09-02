@@ -45,7 +45,7 @@ Starting at the section **Set locale** on that page follow the steps pasting tho
 <img src="images/Set_locale.png" width="400" height="300">
 
 ### Setup Sources
-Copy and paste all these commands into yout terminal on your ubuntu machine
+Copy and paste all these commands into your terminal on your ubuntu machine
 
 <img src="images/Setup_sources.png" width="400" height="300">
 
