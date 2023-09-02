@@ -92,6 +92,8 @@ Remember you no longer need to source your terminal if you put the source coomad
 
 
 ## Youtube tutorial walkthrough (Required for Intro Project)
+#### Read this entire section before staring the youtube playlist
+
 1. You can move on to the youtube tutorials that will teach you how to make nodes, topics, and services (the intercommunication of the robot) **(REQUORED FOR INTRO PROJECT)**
 
 This is the [Youtube Playlist](https://www.youtube.com/playlist?list=PLLSegLrePWgJudpPUof4-nVFHGkB62Izy) you will follow 
