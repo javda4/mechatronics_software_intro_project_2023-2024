@@ -14,7 +14,7 @@ any number of processors will do the more the better
 
 ## ROS 2 Foxy Documentation Page
 #### This process will be done on your ubuntu machine
-#### PLEASE READ THROUGH THIS ENTIRE SECTION ALL THE WAY UNTIL YOUTUBE TUTORIALS BEFORE PUTTING IN COMMANDS INTO TERMINAL AS THERE IS A COMMAND I DON'T WANT YOU TO USE
+#### PLEASE READ THROUGH THIS ENTIRE SECTION ALL THE WAY UNTIL [YOUTUBE TUTORIALS](https://github.com/javda4/mechatronics_software_intro_project_2023-2024/blob/main/README.md#youtube-tutorial-walkthrough-required-for-intro-project) BEFORE PUTTING IN COMMANDS INTO TERMINAL AS THERE IS A COMMAND I DON'T WANT YOU TO USE
 Start by right clicking and opening the following link in a new tab [ROS2 Foxy Documentation](https://docs.ros.org/en/foxy/index.html)
 
 Click on the tab and it should look like this:
