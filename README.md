@@ -28,7 +28,7 @@ You will click on **Ubuntu (Debian)**
 
 Your page should now look like this:
 
-<img src="images/Ubuntu(debian).png" width="400" height="300">
+<img src="images/Ubuntu_debian.png" width="400" height="300">
 
 
 
