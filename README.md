@@ -102,7 +102,7 @@ This is the [Youtube Playlist](https://www.youtube.com/playlist?list=PLLSegLrePW
 
 Yes, his ROS is ROS 2 Humble not ROS 2 Foxy, however all the code and enviroment setup is the same. He just uses a different Ubuntu version which requires a different ROS 2 version.
 
-**Please** use the same folder and variable names he does in the video as it will make it easier for me to test your code and environment.
+**Please use the same folder and variable names** he does in the video as it will make it easier for me to test your code and environment.
 
 
 
