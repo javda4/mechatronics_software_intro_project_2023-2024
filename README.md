@@ -16,7 +16,8 @@ any number of processors will do the more the better
 Start by right clicking and opening the following link in a new tab [ROS2 Foxy Documentation](https://docs.ros.org/en/foxy/index.html)
 
 Click on the tab and it should look like this:
-<img src="images/Ros2_foxy_doc.png" width="200" height="200">
+
+<img src="images/Ros2_foxy_doc.png" width="300" height="200">
 
 
 
