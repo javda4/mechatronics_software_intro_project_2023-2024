@@ -20,5 +20,18 @@ Click on the tab and it should look like this:
 
 <img src="images/Ros2_foxy_doc.png" width="400" height="300">
 
-On the left side of this page you will see the tab Installation
+On the left side of this page you will see the tab Installation **Click on it**
+
+It will then tab down a list of installation types
+
+You will click on **Ubuntu (Debian)**
+
+Your page should now look like this:
+
+<img src="images/Ubuntu(debian).png" width="400" height="300">
+
+
+
+
+
 
