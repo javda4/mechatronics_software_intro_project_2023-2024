@@ -22,8 +22,6 @@ Click on the tab and it should look like this:
 
 On the left side of this page you will see some tabs that are pretty self explanatory
 
-I recommend taking a look at the tutorials tab after finishing or during your intro project to get a better understanding of ROS
-
 However for the purpose of doing the intro project:
 
 go to the tab **Installation and click on it**
