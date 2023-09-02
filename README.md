@@ -81,7 +81,9 @@ then type/copy&paste this command
 ```
 source ~/.bashrc
 ```
-close that terminal and move to the last section you will be focused on with ROS2 Installation process **Try some examples**
+close that terminal and move to the last section you will be focused on with ROS2 Installation process:
+
+**Try some examples**
 
 Try the examples on the page to make sure everything is working properly
 
@@ -92,7 +94,10 @@ Remember you no longer need to source your terminal if you put the source coomad
 ## Youtube tutorial walkthrough (Required for Intro Project)
 1. You can move on to the youtube tutorials that will teach you how to make nodes, topics, and services (the intercommunication of the robot) **(REQUORED FOR INTRO PROJECT)**
 
-This is the [Youtube Playlist](https://www.youtube.com/playlist?list=PLLSegLrePWgJudpPUof4-nVFHGkB62Izy) you will follow **STARTING AT VIDEO 3: Create and Set up a ROS2 Workspace - ROS2 Tutorial 3** and finish the entire playlist ending at Tutorial 11.
+This is the [Youtube Playlist](https://www.youtube.com/playlist?list=PLLSegLrePWgJudpPUof4-nVFHGkB62Izy) you will follow 
+
+**STARTING AT VIDEO 3: Create and Set up a ROS2 Workspace - ROS2 Tutorial 3** and finish the entire playlist ending at Tutorial 11.
+
 Yes, his ROS is ROS 2 Humble not ROS 2 Foxy, however all the code and enviroment setup is the same. He just uses a different Ubuntu version which requires a different ROS 2 version.
 
 **Please** use the same folder and variable names he does in the video as it will make it easier for me to test your code and environment.
