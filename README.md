@@ -13,5 +13,6 @@ any number of processors will do the more the better
 <br>
 
 ### Download ROS 2 Foxy
-Start by going to the [ROS2 Foxy Documentation](https://docs.ros.org/en/foxy/index.html) page
+Start by right clicking and opening the following link in a new tab [ROS2 Foxy Documentation](https://docs.ros.org/en/foxy/index.html)
+
 
